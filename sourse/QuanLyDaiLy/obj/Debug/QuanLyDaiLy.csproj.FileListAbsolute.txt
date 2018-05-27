@@ -1,0 +1,47 @@
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\bin\Debug\QuanLyDaiLy.exe
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\bin\Debug\QuanLyDaiLy.pdb
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.csprojResolveAssemblyReference.cache
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLiDaiLy.FormGioiThieu.resources
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmQuyDinhTienNo.resources
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmChangePass.resources
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmChiTietXuatHang.resources
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmCongNo.resources
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmDoanhSo.resources
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmHoSo.resources
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmLoaiDaiLy.resources
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmLogin.resources
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmMain.resources
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmMatHang.resources
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmPhieuThuTien.resources
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmPhieuXuatHang.resources
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmQuyCheToChuc.resources
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmQuyDinhMatHang.resources
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmThongTinSP.resources
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.Properties.Resources.resources
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.csproj.GenerateResource.Cache
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.exe
+C:\Users\QuangVu\Desktop\[Sharecode.vn] Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.pdb
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\bin\Debug\QuanLyDaiLy.exe
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\bin\Debug\QuanLyDaiLy.pdb
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.csprojResolveAssemblyReference.cache
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLiDaiLy.FormGioiThieu.resources
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmQuyDinhTienNo.resources
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmChangePass.resources
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmChiTietXuatHang.resources
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmCongNo.resources
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmDoanhSo.resources
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmHoSo.resources
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmLoaiDaiLy.resources
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmLogin.resources
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmMain.resources
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmMatHang.resources
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmPhieuThuTien.resources
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmPhieuXuatHang.resources
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmQuyCheToChuc.resources
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmQuyDinhMatHang.resources
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.frmThongTinSP.resources
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.Properties.Resources.resources
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.csproj.GenerateResource.Cache
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.csproj.CoreCompileInputs.cache
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.exe
+D:\tài liệu\nhập môn công nghệ phần mềm\bài cuối kì\Code phan mem quan ly dai ly C# + bao cao\QuanLyDaiLy\obj\Debug\QuanLyDaiLy.pdb
